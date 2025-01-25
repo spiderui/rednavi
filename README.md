@@ -8,3 +8,4 @@ pycord,
 requests,
 aiohttp,
 BeautifulSoup4,
+pytz
